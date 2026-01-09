@@ -24,6 +24,8 @@ This structure keeps each game isolated and easy to explore.
 
 ### 1. Snake Game
 
+![Snake Game Preview](snake-game/preview.png)
+
 A modern version of the classic Snake game featuring:
 
 - Smooth movement and clean UI
@@ -34,21 +36,31 @@ A modern version of the classic Snake game featuring:
 - No instant death on boundaries
 
 **Folder:** `snake-game/`  
-Includes `snake_game.exe` for Windows users
+Includes `snake_game.exe` for Windows users in the `snake-game/dist/` folder
+
+---
+
+### 2. Chrome Dino
+
+![Chrome Dino Preview](chrome-dino/preview.png)
+
+A faithful recreation of the classic Chrome Dino Run game featuring:
+
+- Smooth running, jumping, and ducking animations
+- Accurate hitbox-based collision detection
+- Progressive speed increase with score
+- Classic zero-padded score display (e.g. 000089)
+- Flying birds and ground obstacles
+- Infinite scrolling ground
+- Clean start and restart screen
+
+**Folder:** `chrome-dino/`
 
 More games will be added over time.
 
 ---
 
-## How to Play (Windows)
-
-1. Open the game’s folder (for example: `snake-game`)
-2. Double-click the `.exe` file
-3. Play instantly — no Python installation required
-
----
-
-## Running Games from Source (Python)
+## Running Games from Source
 
 ### Recommended: Create a Virtual Environment
 
