@@ -77,6 +77,8 @@ The game features a complete scoring system, progressive difficulty, next-piece 
 
 **Folder:** `tetris-game`
 
+**Note:** This version is adapted from [ibrahimAtespare's Tetris](https://github.com/ibrahimAtespare/tetris-python) with minor modifications to UI and mechanics.
+
 ---
 
 ### 4. 2048 game
@@ -94,7 +96,7 @@ The game features smooth inputs, score tracking, high score persistence during t
 - "Keep Playing" mode after reaching 2048
 - Responsive keyboard controls
 
-**Folder:** `chrome-dino/`
+**Folder:** `2048-game/`
 
 More games will be added over time.
 
