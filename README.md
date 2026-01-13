@@ -56,6 +56,46 @@ A faithful recreation of the classic Chrome Dino Run game featuring:
 
 **Folder:** `chrome-dino/`
 
+---
+
+### 3. Tetris
+
+![Tetris Game Preview](tetris-game/preview.png)
+
+A classic Tetris clone built using Python 3.13 and Pygame.
+The game features a complete scoring system, progressive difficulty, next-piece preview, and authentic mechanics including line-clear animations.
+
+#### Features:
+- All 7 standard Tetrominos with classic colors
+- Next piece preview in the sidebar
+- Progressive speed increase (every 10 lines)
+- Score, Level, and Lines tracking
+- Clockwise and Counter-Clockwise rotation
+- Soft drop (fast fall)
+- Line clear animation effects
+- Pause and Restart functionality
+
+**Folder:** `tetris-game`
+
+---
+
+### 4. 2048 game
+
+![2048 Game Preview](2048-game/preview.png)
+
+The game features smooth inputs, score tracking, high score persistence during the session, and a clean visual style matching the original web game.
+
+#### Features:
+- Classic 4x4 Grid gameplay
+- Join the tiles and get to 2048!
+- Score and High Score tracking
+- Dynamic text scaling for larger numbers (4096, 8192, etc.)
+- Game Over and Victory screens
+- "Keep Playing" mode after reaching 2048
+- Responsive keyboard controls
+
+**Folder:** `chrome-dino/`
+
 More games will be added over time.
 
 ---
