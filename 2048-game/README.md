@@ -1,5 +1,7 @@
 # 2048 Game
 
+![2048 Game Preview](2048-game/preview.png)
+
 A faithful recreation of the popular sliding tile puzzle game 2048, built using Python 3.13 and Pygame.
 
 The game features smooth inputs, score tracking, high score persistence during the session, and a clean visual style matching the original web game.

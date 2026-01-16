@@ -22,81 +22,56 @@ This structure keeps each game isolated and easy to explore.
 
 ## Games Included
 
-### 1. Snake Game
+### 1. Tower Defense
 
-![Snake Game Preview](snake-game/preview.png)
+![Tower Defense Game Preview](tower-defense/preview.png)
 
-A modern version of the classic Snake game featuring:
+A modular Tower Defense game featuring 5 distinct tower classes, enemy waves with progressive difficulty, a robust upgrade system, and persistent save/load functionality.
 
-- Smooth movement and clean UI
-- Screen wrapping (no wall collision)
-- Increasing speed as score increases
-- Golden food worth +3 points
-- Special timed food mechanics
-- No instant death on boundaries
-
-**Folder:** `snake-game/`  
-Includes `snake_game.exe` for Windows users in the `snake-game/dist/` folder
+**Folder:** [tower-defense](https://github.com/planovaapps/pygame_showcase/tree/main/tower-defense)
 
 ---
 
-### 2. Chrome Dino
-
-![Chrome Dino Preview](chrome-dino/preview.png)
-
-A faithful recreation of the classic Chrome Dino Run game featuring:
-
-- Smooth running, jumping, and ducking animations
-- Accurate hitbox-based collision detection
-- Progressive speed increase with score
-- Classic zero-padded score display (e.g. 000089)
-- Flying birds and ground obstacles
-- Infinite scrolling ground
-- Clean start and restart screen
-
-**Folder:** `chrome-dino/`
-
----
-
-### 3. Tetris
+### 2. Tetris
 
 ![Tetris Game Preview](tetris-game/preview.png)
 
-A classic Tetris clone built using Python 3.13 and Pygame.
-The game features a complete scoring system, progressive difficulty, next-piece preview, and authentic mechanics including line-clear animations.
+A classic Tetris clone featuring a complete scoring system, progressive difficulty, next-piece preview, and authentic mechanics including line-clear animations.
 
-#### Features:
-- All 7 standard Tetrominos with classic colors
-- Next piece preview in the sidebar
-- Progressive speed increase (every 10 lines)
-- Score, Level, and Lines tracking
-- Clockwise and Counter-Clockwise rotation
-- Soft drop (fast fall)
-- Line clear animation effects
-- Pause and Restart functionality
-
-**Folder:** `tetris-game`
+**Folder:** [tetris-game](https://github.com/planovaapps/pygame_showcase/tree/main/tetris-game)
 
 **Note:** This version is adapted from [ibrahimAtespare's Tetris](https://github.com/ibrahimAtespare/tetris-python) with minor modifications to UI and mechanics.
 
 ---
 
-### 4. 2048 game
+### 3. Chrome Dino
+
+![Chrome Dino Preview](chrome-dino/preview.png)
+
+A faithful recreation of the classic Chrome Dino Run game featuring smooth animations, accurate hitbox collision, and progressive speed increases.
+
+**Folder:** [chrome-dino](https://github.com/planovaapps/pygame_showcase/tree/main/chrome-dino)
+
+---
+
+### 4. Snake Game
+
+![Snake Game Preview](snake-game/preview.png)
+
+A modern version of the classic Snake game featuring screen wrapping, increasing speed, and special food mechanics.
+
+**Folder:** [snake-game](https://github.com/planovaapps/pygame_showcase/tree/main/snake-game)  
+Includes `snake_game.exe` for Windows users in the `snake-game/dist/` folder
+
+---
+
+### 5. 2048 game
 
 ![2048 Game Preview](2048-game/preview.png)
 
-The game features smooth inputs, score tracking, high score persistence during the session, and a clean visual style matching the original web game.
+The classic sliding tile puzzle game featuring smooth inputs, score tracking, high score persistence, and a clean visual style matching the original.
 
-#### Features:
-- Classic 4x4 Grid gameplay
-- Join the tiles and get to 2048!
-- Score and High Score tracking
-- Dynamic text scaling for larger numbers (4096, 8192, etc.)
-- Game Over and Victory screens
-- "Keep Playing" mode after reaching 2048
-- Responsive keyboard controls
-
-**Folder:** `2048-game/`
+**Folder:** [2048-game](https://github.com/planovaapps/pygame_showcase/tree/main/2048-game)
 
 More games will be added over time.
 
