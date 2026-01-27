@@ -12,7 +12,6 @@ Each game is self-contained in its own folder and includes everything needed to 
 Each game folder contains:
 
 - Python source code (`.py`)
-- Pre-built Windows executable (`.exe`)
 - `requirements.txt`
 - A dedicated README explaining gameplay, controls, and features
 
