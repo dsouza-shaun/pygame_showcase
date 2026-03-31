@@ -1,6 +1,6 @@
 # Snake Game
 
-![Snake Game Preview](snake-game/preview.png)
+![Snake Game Preview](preview.png)
 
 A fast, clean, and modern Snake game built using **Python 3.13** and **Pygame**.  
 The game includes special golden food (+3 points), increasing speed, and smooth gameplay.

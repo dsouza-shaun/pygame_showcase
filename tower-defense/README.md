@@ -1,6 +1,6 @@
 # Tower Defense
 
-![Tower Defense Game Preview](tower-defense/preview.png)
+![Tower Defense Game Preview](preview.png)
 
 A modular Tower Defense game built using Python 3.13 and Pygame.The game features 5 distinct tower classes, enemy waves with progressive difficulty, a robust upgrade system, and persistent save/load functionality.
 

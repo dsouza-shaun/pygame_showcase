@@ -1,6 +1,6 @@
 # Pygame Showcase
 
-A collection of small, polished games built using **Python (3.13+)** and **Pygame**.  
+A collection of small, polished games built using **Python** and **Pygame**.  
 This repository is meant for learning, experimentation, and showcasing Python-based game development.
 
 Each game is self-contained in its own folder and includes everything needed to run or study it.
@@ -27,7 +27,7 @@ This structure keeps each game isolated and easy to explore.
 
 A modular Tower Defense game featuring 5 distinct tower classes, enemy waves with progressive difficulty, a robust upgrade system, and persistent save/load functionality.
 
-**Folder:** [tower-defense](https://github.com/planovaapps/pygame_showcase/tree/main/tower-defense)
+**Folder:** [tower-defense](https://github.com/dsouza-shaun/pygame_showcase/tree/main/tower-defense)
 
 ---
 
@@ -37,7 +37,7 @@ A modular Tower Defense game featuring 5 distinct tower classes, enemy waves wit
 
 A classic Tetris clone featuring a complete scoring system, progressive difficulty, next-piece preview, and authentic mechanics including line-clear animations.
 
-**Folder:** [tetris-game](https://github.com/planovaapps/pygame_showcase/tree/main/tetris-game)
+**Folder:** [tetris-game](https://github.com/dsouza-shaun/pygame_showcase/tree/main/tetris-game)
 
 **Note:** This version is adapted from [ibrahimAtespare's Tetris](https://github.com/ibrahimAtespare/tetris-python) with minor modifications to UI and mechanics.
 
@@ -49,7 +49,7 @@ A classic Tetris clone featuring a complete scoring system, progressive difficul
 
 A faithful recreation of the classic Chrome Dino Run game featuring smooth animations, accurate hitbox collision, and progressive speed increases.
 
-**Folder:** [chrome-dino](https://github.com/planovaapps/pygame_showcase/tree/main/chrome-dino)
+**Folder:** [chrome-dino](https://github.com/dsouza-shaun/pygame_showcase/tree/main/chrome-dino)
 
 ---
 
@@ -59,7 +59,7 @@ A faithful recreation of the classic Chrome Dino Run game featuring smooth anima
 
 A modern version of the classic Snake game featuring screen wrapping, increasing speed, and special food mechanics.
 
-**Folder:** [snake-game](https://github.com/planovaapps/pygame_showcase/tree/main/snake-game)  
+**Folder:** [snake-game](https://github.com/dsouza-shaun/pygame_showcase/tree/main/snake-game)  
 Includes `snake_game.exe` for Windows users in the `snake-game/dist/` folder
 
 ---
@@ -70,7 +70,7 @@ Includes `snake_game.exe` for Windows users in the `snake-game/dist/` folder
 
 The classic sliding tile puzzle game featuring smooth inputs, score tracking, high score persistence, and a clean visual style matching the original.
 
-**Folder:** [2048-game](https://github.com/planovaapps/pygame_showcase/tree/main/2048-game)
+**Folder:** [2048-game](https://github.com/dsouza-shaun/pygame_showcase/tree/main/2048-game)
 
 More games will be added over time.
 

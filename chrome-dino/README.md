@@ -1,6 +1,6 @@
 # Chrome Dino Game
 
-![Chrome Dino Preview](chrome-dino/preview.png)
+![Chrome Dino Preview](preview.png)
 
 A faithful recreation of the classic Chrome Dino Run game built using Python 3.13 and Pygame.  
 The game features smooth animations, accurate hitboxes, progressive difficulty, and an authentic visual style inspired by the original.

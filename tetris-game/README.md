@@ -1,6 +1,6 @@
 # Tetris
 
-![Tetris Game Preview](tetris-game/preview.png)
+![Tetris Game Preview](preview.png)
 
 A classic Tetris clone built using Python 3.13 and Pygame.
 The game features a complete scoring system, progressive difficulty, next-piece preview, and authentic mechanics including line-clear animations.
